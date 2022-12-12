@@ -1,17 +1,16 @@
-# CARTÃO DA COPA DO MUNDO CRIANDO COM REACTJS | WORLD CUP CARD CREATING WITH REACTJS
+# CARTÃO DA COPA DO MUNDO CRIANDO COM REACTJS
+Simples projeto para treinar manipulação de estados no React JS 
+Nesse projeto eu crio um cartão que quando clicamos ele muda para outro cartão
 
-Simple projeto para treinar manipulação de estados no React JS Nesse projeto eu crio um cartão que quando clicamos ele muda para outro cartão
+#  WORLD CUP CARD CREATING WITH REACTJS
+Simple project to train state handling in React JS 
+In this project I create a card that when we click it changes to another card
 
----
-
-Simple project to train state handling in React JS In this project I create a card that when we click it changes to another card
-
-## TELAS PARA NAVEGADORES WEB | SCREENS FOR WEB BROWSERS
-
+### TELAS PARA NAVEGADORES WEB | SCREENS FOR WEB BROWSERS
 ![screenDesktop1](/src/assets/001.png) 
 ![screenDesktop2](/src/assets/002.png)
 
-## TELAS EM DISPOSITIVOS MOVEIS | SCREENS ON MOBILE DEVICES
+### TELAS EM DISPOSITIVOS MOVEIS | SCREENS ON MOBILE DEVICES
 ![screenMobile1](/src/assets/005.png) 
 ![screenMobile2](/src/assets/006.png)
 ![screenMobile3](/src/assets/007.png)
