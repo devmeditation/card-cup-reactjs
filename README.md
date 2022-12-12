@@ -12,9 +12,9 @@ Nesse projeto eu crio um cartão que quando clicamos ele muda para outro cartão
 ![screenMobile3](/src/assets/007.png)
 
 ### Techs
-- [ReactJS]()
-- [Typescript]()
-- [ViteJS]()
+- [ReactJS](https://reactjs.org)
+- [Typescript](https://www.typescriptlang.org/)
+- [ViteJS](https://vitejs.dev/)
 
 
 ####
