@@ -3,13 +3,13 @@
 Simple projeto para treina manipulação de estados no ReactJS
 Nesse projeto eu crio um cartão que quando clicamos ele muda para outro cartão
 
-![screenDesktop1](./public/001.png) 
-![screenDesktop2](./public/002.png)
+![screenDesktop1](/src/assets/001.png) 
+![screenDesktop2](/src/assets/002.png)
 
 ## Mobile
-![screenMobile1](./public/005.png) 
-![screenMobile2](./public/006.png)
-![screenMobile3](./public/007.png)
+![screenMobile1](/src/assets/005.png) 
+![screenMobile2](/src/assets/006.png)
+![screenMobile3](/src/assets/007.png)
 
 ### Techs
 - [ReactJS]()
